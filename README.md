@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 - 💻 FullStack Developer skilled in **Java, Spring Boot, Angular, Flutter**  
-- 🌍 Based in Meknes, Morocco  
+- 🌍 Based in Morocco  
 - 📫 Reach me at **aguedaisouhayl@gmail.com**  
 - 📄 My CV: [Europass Profile](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/souhayl-aguedai/c1d84df6-cd7b-498e-98a3-8f2dc1c9583f?view=html)
 
