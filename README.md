@@ -3,7 +3,7 @@
 
 <p align="center">
   <b>Master's student in Software Engineering & Information Systems</b><br/>
-  ENSA Kénitra · Meknès, Morocco · Open to a 4–6 month end-of-studies internship
+  ENSA Kénitra · Meknès, Morocco · Open to a 6 month end-of-studies internship
 </p>
 
 <p align="center">
