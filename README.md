@@ -61,11 +61,11 @@ I build web and mobile applications across the frontend, backend, and database l
 ## GitHub at a glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=souhayl66&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="Souhayl's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souhayl66&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=souhayl66&theme=github" alt="Souhayl's GitHub stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=souhayl66&theme=github" alt="Languages across public repositories"/>
 </p>
 
-> Stats cards reflect public GitHub activity. Private repositories are not included in these cards.
+> Stats cards show public repository activity and language data.
 
 ## Languages
 
