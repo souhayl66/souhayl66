@@ -29,21 +29,22 @@ I build web and mobile applications across the frontend, backend, and database l
 
 ## Projects
 
-Every repository in my account is listed below. Private repositories are labeled clearly; their code and contents remain access-restricted by GitHub.
+Personal and organization projects I've worked on. Private repositories are labeled; their code and contents remain access-restricted by GitHub.
 
 | Project | What it is for | Languages, stack & tools | Access |
 | --- | --- | --- | --- |
-| **Merce Italiana** | Full-stack clothing retail management platform, designed around inventory, orders, customers, staff, and reporting. | Java 17, Spring Boot, Spring Security, Spring Data JPA, WebSocket, PostgreSQL/H2, Flyway, JWT; React 19, Vite, Tailwind CSS, Axios, TanStack Query; Maven, npm | 🔒 Private |
-| **Montauto Platform** | Conservation and heritage platform for public information, volunteer tasks, progress tracking, and role-based dashboards. | Java, Spring Boot, Spring Security, Spring Data JPA, JWT, Flyway, H2/MySQL; Angular 21, TypeScript, Angular Material, SSR; Maven Wrapper, npm | 🔒 Private |
-| **Auction System** | Web app for buyer and seller accounts, product listings, online auctions, and administration. | Java 17, Spring Boot 3, Spring Security, Spring Data JPA, Thymeleaf, MySQL, Maven | Public |
-| **ShopMa** | Android shopping app with product browsing, cart, checkout, account, and order screens. | Java, Android SDK, Gradle, AndroidX, Material Components, Retrofit, Gson, OkHttp, Glide, Google Maps | Public |
-| **Shuttle Management** | Admin application for shuttle routes, timetables, passengers, and operational reporting. | Java 17, Spring Boot, Thymeleaf, MySQL/H2, HTML, CSS, Bootstrap, Maven | Public |
-| **Gestione Lavoratori** | Desktop demo for organizing worker documents and files, searching records, and tracking expiration reminders. The repository documents this as a non-persistent demo. | Python, Tkinter, ttkbootstrap, tkcalendar, Windows notifications, email alerts, PyInstaller | Public |
-| **E-commerce TP** | Jakarta EE shopping workflow for clients, product catalog, cart, order validation, and stock updates. | Java 17, Jakarta EE 9.1, Servlets, JSP, JPA, TomEE 9, MySQL, Bootstrap 5, Maven | Public |
-| **Store Demo** | Store demo for product listing, image support, and product CRUD management. | Java 17, Spring Boot, Spring Data JPA, Thymeleaf, H2, Apache POI, Maven | Public |
-| **is-prime-souhayl** | Small npm package that checks whether a number is prime. | JavaScript, Node.js, npm | Public |
-| **meetversary** | Personal anniversary page with a photo gallery, custom message, and interactive rose animations. | HTML, CSS, JavaScript | 🔒 Private |
-| **flower** | Small interactive celebration page with choice buttons, animated hearts, and GIF feedback. | HTML, CSS, JavaScript | 🔒 Private |
+| **[Merce Italiana](https://github.com/souhayl66/merce-italiana)** | Full-stack clothing retail management platform, designed around inventory, orders, customers, staff, and reporting. | Java 17, Spring Boot, Spring Security, Spring Data JPA, WebSocket, PostgreSQL/H2, Flyway, JWT; React 19, Vite, Tailwind CSS, Axios, TanStack Query; Maven, npm | 🔒 Private |
+| **[Montauto Platform](https://github.com/souhayl66/Montauto-platform)** | Conservation and heritage platform for public information, volunteer tasks, progress tracking, and role-based dashboards. | Java, Spring Boot, Spring Security, Spring Data JPA, JWT, Flyway, H2/MySQL; Angular 21, TypeScript, Angular Material, SSR; Maven Wrapper, npm | 🔒 Private |
+| **[Basketball Training](https://github.com/basket-workut/Basketball-training)** | Organization project for a cross-platform basketball training app with AI video analysis. The repo currently contains the monorepo structure and Spring Boot backend scaffold. | Java 21, Spring Boot 4, Spring Security, Spring Data JPA, PostgreSQL; Angular and Flutter workspaces described in the project README; Maven | Public · organization |
+| **[Shuttle Management](https://github.com/souhayl66/shuttle-management)** | Admin application for shuttle routes, timetables, passengers, and operational reporting. | Java 17, Spring Boot, Thymeleaf, MySQL/H2, HTML, CSS, Bootstrap, Maven | Public |
+| **[Auction System](https://github.com/souhayl66/auction-system)** | Web app for buyer and seller accounts, product listings, online auctions, and administration. | Java 17, Spring Boot 3, Spring Security, Spring Data JPA, Thymeleaf, MySQL, Maven | Public |
+| **[ShopMa](https://github.com/souhayl66/ShopMa)** | Android shopping app with product browsing, cart, checkout, account, and order screens. | Java, Android SDK, Gradle, AndroidX, Material Components, Retrofit, Gson, OkHttp, Glide, Google Maps | Public |
+| **[Gestione Lavoratori](https://github.com/souhayl66/Gestione-Lavoratori)** | Desktop demo for organizing worker documents and files, searching records, and tracking expiration reminders. The repository documents this as a non-persistent demo. | Python, Tkinter, ttkbootstrap, tkcalendar, Windows notifications, email alerts, PyInstaller | Public |
+| **[E-commerce TP](https://github.com/souhayl66/ecommerce-tp)** | Jakarta EE shopping workflow for clients, product catalog, cart, order validation, and stock updates. | Java 17, Jakarta EE 9.1, Servlets, JSP, JPA, TomEE 9, MySQL, Bootstrap 5, Maven | Public |
+| **[Store Demo](https://github.com/souhayl66/store-demo)** | Store demo for product listing, image support, and product CRUD management. | Java 17, Spring Boot, Spring Data JPA, Thymeleaf, H2, Apache POI, Maven | Public |
+| **[is-prime-souhayl](https://github.com/souhayl66/is-prime-souhayl)** | Small npm package that checks whether a number is prime. | JavaScript, Node.js, npm | Public |
+| **[meetversary](https://github.com/souhayl66/meetversary)** | Personal anniversary page with a photo gallery, custom message, and interactive rose animations. | HTML, CSS, JavaScript | 🔒 Private |
+| **[flower](https://github.com/souhayl66/flower)** | Small interactive celebration page with choice buttons, animated hearts, and GIF feedback. | HTML, CSS, JavaScript | 🔒 Private |
 
 ## Skills
 
